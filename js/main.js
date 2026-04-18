@@ -1,4 +1,4 @@
-const PHOTO_SRC = './assets/img/photo.png';
+const PHOTO_SRC = '/assets/img/photo.png';
 
 window.addEventListener('DOMContentLoaded', () => {
   const heroPhoto = document.getElementById('heroPhoto');
